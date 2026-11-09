@@ -1,3 +1,4 @@
 # Isha-Gupta
-Thia is my First Repository
+This is my First Repository
 Hello
+welcome to learn github code ...
